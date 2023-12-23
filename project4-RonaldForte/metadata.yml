@@ -1,0 +1,12 @@
+---
+:id: 207093361
+:submitters:
+- :name: Ronald A Forte Jr
+  :email: ronald.fortejr63@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-28 00:24:00.455166000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-27 17:24:00.455166000 Z
+:status: processed
+:score: 100.0
